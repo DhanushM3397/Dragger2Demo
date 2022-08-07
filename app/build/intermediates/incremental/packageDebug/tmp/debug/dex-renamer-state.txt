@@ -1,4 +1,4 @@
-#Sun Aug 07 17:57:22 IST 2022
+#Sun Aug 07 20:08:22 IST 2022
 base.1=C\:\\Users\\TVD\\Desktop\\New folder (7)\\Dagger2Demo_Kotlin\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
 path.1=classes.dex
 base.0=C\:\\Users\\TVD\\Desktop\\New folder (7)\\Dagger2Demo_Kotlin\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
