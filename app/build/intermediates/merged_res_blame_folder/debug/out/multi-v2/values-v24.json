@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\TVD\\Desktop\\New folder (7)\\Dagger2Demo_Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\TVD\\.gradle\\caches\\transforms-2\\files-2.1\\62ffe52fc5b61ca494fa4836196f4dfe\\appcompat-1.2.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\TVD\\.gradle\\caches\\transforms-2\\files-2.1\\bc92d11dc80490a1284b51202cb75029\\appcompat-1.2.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

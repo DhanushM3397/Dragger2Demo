@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\TVD\\Desktop\\New folder (7)\\Dagger2Demo_Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\TVD\\.gradle\\caches\\transforms-2\\files-2.1\\d7676a6d77a1ac0e81149192523c4112\\material-1.3.0\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
+                    "source": "C:\\Users\\TVD\\.gradle\\caches\\transforms-2\\files-2.1\\834c94f68aeee5308be6d2dafd16b111\\material-1.3.0\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

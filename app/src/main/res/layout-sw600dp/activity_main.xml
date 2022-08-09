@@ -29,7 +29,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="28dp"
-                android:background="@drawable/rounded_button_red"
+                android:background="@drawable/rounded_button_skyblue"
                 android:layout_marginTop="32dp"
                 android:text="Video" />
 
@@ -38,7 +38,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="35dp"
-                android:background="@drawable/rounded_button_red"
+                android:background="@drawable/rounded_button_skyblue"
                 android:layout_marginTop="32dp"
                 android:layout_marginEnd="35dp"
                 android:text="Feeds" />
