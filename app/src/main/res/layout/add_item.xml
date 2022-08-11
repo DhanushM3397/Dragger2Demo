@@ -31,6 +31,7 @@
                 android:layout_height="match_parent">
 
                 <TextView
+                    android:id="@+id/alertText"
                     android:text="Enter the room name"
                     android:textStyle="bold"
                     android:textSize="19sp"
@@ -49,25 +50,9 @@
                     android:inputType="textPersonName"
                     android:textColor="@color/black"
                     android:textSize="18sp"
-                    android:text="@={myalertviewmodel.inputName}"
-                    android:textStyle="bold"
-                    android:padding="15dp"
-                    android:layout_marginLeft="15dp"
-                    android:layout_marginRight="15dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginBottom="5dp"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content" />
 
-                <EditText
-                    android:id="@+id/userEmail"
-                    android:hint="@string/email"
-                    android:inputType="textPersonName"
-                    android:textColor="@color/black"
-                    android:textSize="18sp"
                     android:textStyle="bold"
                     android:padding="15dp"
-                    android:text="@={myalertviewmodel.inputEmail}"
                     android:layout_marginLeft="15dp"
                     android:layout_marginRight="15dp"
                     android:layout_marginTop="10dp"
@@ -79,6 +64,7 @@
                     android:id="@+id/simpleCheckBox"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+
                     android:checked="true"
                     android:text="isLive" />
 

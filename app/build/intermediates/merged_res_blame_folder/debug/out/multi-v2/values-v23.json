@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\TVD\\Desktop\\New folder (7)\\Dagger2Demo_Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\TVD\\.gradle\\caches\\transforms-2\\files-2.1\\3974c0ea226051126c3187e3c8e168a5\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\TVD\\.gradle\\caches\\transforms-2\\files-2.1\\2ed35b925324e4dda779ccf84c822aea\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\TVD\\.gradle\\caches\\transforms-2\\files-2.1\\bc92d11dc80490a1284b51202cb75029\\appcompat-1.2.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\TVD\\.gradle\\caches\\transforms-2\\files-2.1\\17cfe45a8e57eadd81893db8bbcc046e\\appcompat-1.2.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -34,7 +34,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\TVD\\.gradle\\caches\\transforms-2\\files-2.1\\834c94f68aeee5308be6d2dafd16b111\\material-1.3.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\TVD\\.gradle\\caches\\transforms-2\\files-2.1\\c5494023cdc05f8763120c1fc2c2d1df\\material-1.3.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",

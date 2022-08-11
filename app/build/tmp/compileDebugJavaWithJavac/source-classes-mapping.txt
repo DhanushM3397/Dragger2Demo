@@ -18,8 +18,6 @@ androidx/databinding/DataBinderMapperImpl.java
  androidx.databinding.DataBinderMapperImpl
 com/demo/dagger2demo_kotlin/databinding/AddItemBindingImpl.java
  com.demo.dagger2demo_kotlin.databinding.AddItemBindingImpl
- com.demo.dagger2demo_kotlin.databinding.AddItemBindingImpl$1
- com.demo.dagger2demo_kotlin.databinding.AddItemBindingImpl$2
 androidx/databinding/library/baseAdapters/BR.java
  androidx.databinding.library.baseAdapters.BR
 com/demo/dagger2demo_kotlin/MyApplication_ComponentTreeDeps.java
@@ -83,12 +81,16 @@ com/demo/dagger2demo_kotlin/MyApplication_HiltComponents.java
  com.demo.dagger2demo_kotlin.MyApplication_HiltComponents$ViewWithFragmentCBuilderModule
 com/demo/dagger2demo_kotlin/DataBindingTriggerClass.java
  com.demo.dagger2demo_kotlin.DataBindingTriggerClass
+com/demo/dagger2demo_kotlin/databinding/ActivityMain2BindingImpl.java
+ com.demo.dagger2demo_kotlin.databinding.ActivityMain2BindingImpl
 com/demo/dagger2demo_kotlin/BR.java
  com.demo.dagger2demo_kotlin.BR
 com/demo/dagger2demo_kotlin/databinding/ActivityMainBinding.java
  com.demo.dagger2demo_kotlin.databinding.ActivityMainBinding
 com/demo/dagger2demo_kotlin/MyApplication_GeneratedInjector.java
  com.demo.dagger2demo_kotlin.MyApplication_GeneratedInjector
+com/demo/dagger2demo_kotlin/databinding/ActivityMain2Binding.java
+ com.demo.dagger2demo_kotlin.databinding.ActivityMain2Binding
 com/demo/dagger2demo_kotlin/databinding/ListItemBindingImpl.java
  com.demo.dagger2demo_kotlin.databinding.ListItemBindingImpl
 com/demo/dagger2demo_kotlin/DataBinderMapperImpl.java

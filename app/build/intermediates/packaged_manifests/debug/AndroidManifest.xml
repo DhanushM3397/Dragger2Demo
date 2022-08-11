@@ -22,7 +22,12 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Dagger2Demo_Kotlin" >
-        <activity android:name="com.demo.dagger2demo_kotlin.MainActivity" >
+        <activity
+            android:name="com.demo.dagger2demo_kotlin.MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name="com.demo.dagger2demo_kotlin.MainActivity"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

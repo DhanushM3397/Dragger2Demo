@@ -1651,6 +1651,8 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable ic_baseline_delete_24
+drawable ic_baseline_edit
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -1767,6 +1769,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id alertText
 id alertTitle
 id aligned
 id all
@@ -1915,6 +1918,7 @@ id line1
 id line3
 id linear
 id linearLayout
+id listItemLayout
 id listMode
 id list_item
 id masked
@@ -2101,6 +2105,7 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
+id textview
 id textviewDescription
 id textviewName
 id time
@@ -2124,8 +2129,9 @@ id uniform
 id unlabeled
 id up
 id useLogo
-id userEmail
+id userEmail1
 id userName
+id userName1
 id view_offset_helper
 id view_tree_lifecycle_owner
 id view_tree_saved_state_registry_owner
@@ -2198,6 +2204,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_main2
 layout add_item
 layout custom_dialog
 layout design_bottom_navigation_item
